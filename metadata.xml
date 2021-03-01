@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+
+<identifier identifierType="DOI">10.17632/rs3c243fnm.1</identifier>
+
+<creators>
+  <creator>
+    <creatorName nameType="Personal">Arpan Kar</creatorName>
+    <givenName>Arpan</givenName>
+    <familyName>Kar</familyName>
+  </creator>
+  <creator>
+    <creatorName nameType="Personal">purva grover</creatorName>
+    <givenName>purva</givenName>
+    <familyName>grover</familyName>
+  </creator>
+</creators>
+<contributor>
+<contributor nameType="DataCollector">Davies, Gareth</contributor>
+ <givenName>Gareth</givenName>
+    <familyName>Davies</familyName>
+</contributor>
+
+<titles><title>Data for: “Technology enabled Health” – Insights from Twitter Analytics with a Socio-Technical Perspective</title></titles>
+
+<publisher>Mirror of Mendeley Data</publisher>
+<publicationYear>2019</publicationYear>
+
+<subjects>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Social Media Marketing</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Twitter Analysis</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Social Media Health Data</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Health and technology Relationships on Twitter</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text"> Health Technology</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Health Domains</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Hashtag Analysis on Health and Technology</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Diseases Discussion on Twitter</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">The Actor-Network Theory</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">The CUP Framework Approach</subject>
+  <subject xml:lang="en-US" schemeURI="http://purl.org/dc/dcmitype/Dataset" subjectScheme="Free Text">Word Analysis</subject>
+</subjects>
+ 
+  <dates>
+    <date dateType="Issued">2019-07-19 10:19:56</date>
+   <date dateType="Created">:unav</date>
+  </dates>
+
+  <language>en-US</language>
+ 
+<resourceType resourceTypeGeneral="Dataset">Twitter's Hashtag</resourceType>
+  <relatedIdentifiers>
+<relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">https://blog.hootsuite.com/twitter-analytics-guide/
+
+</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsDocumentedBy">https://doi.org/10.1016/j.ijinfomgt.2018.07.003.
+</relatedIdentifier>
+</relatedIdentifiers>
+
+<sizes>
+    <size>24.7 MB</size>
+</sizes>
+
+<formats>
+    <format>application/CVS</format>
+    <format>text/tab-separated-values</format>
+</formats>
+  
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifier="cc-by-4.0" rightsIdentifierScheme="SPDX" schemeURI="https://spdx.org/licenses/">https://creativecommons.org/licenses/by/4.0/</rights>
+</rightsList>
+
+<descriptions>
+  <description descriptionType="Abstract">This data set consists of all the tweets collected and segregated after extraction on the theme of digital and technology enabled health. This data set has been analysed with Twitter analytics,  the CUP framework approach, word analysed, and  the actor-network theory to answer the three research questions. RQ1 What are the popular information technologies in the health domain? RQ2: Which type of diseases, i.e. acute or chronic; communicable or non-communicable diseases being discussed more on social media? RQ3: How technological solutions have been associated with various diseases?
+  </description>
+</descriptions>
+</resource>
+
+
+
+
+
+
+
