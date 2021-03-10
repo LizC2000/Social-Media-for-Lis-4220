@@ -6,19 +6,27 @@
 <creators>
   <creator>
     <creatorName nameType="Personal">Arpan Kar</creatorName>
-    <givenName>Arpan</givenName>
     <familyName>Kar</familyName>
+    <givenName>Arpan</givenName>
   </creator>
   <creator>
-    <creatorName nameType="Personal">purva grover</creatorName>
-    <givenName>purva</givenName>
-    <familyName>grover</familyName>
+    <creatorName nameType="Personal">Purva Grover</creatorName>
+     <familyName>Grover</familyName>
+    <givenName>Purva</givenName>
   </creator>
 </creators>
-<contributor>
-<contributor nameType="DataCollector">Davies, Gareth</contributor>
+
+<contributor contributorType="DataCollector">
+<contributorName nameType="Personal">Davies, Gareth</contributorName>
+  <familyName>Davies</familyName>
  <givenName>Gareth</givenName>
-    <familyName>Davies</familyName>
+   </contributor>
+   
+<contributor contributorType="DataCurator">
+<contributorName nameType="Personal">Cook, Liz</contributorName>
+    
+  <familyName>Cook</familyName>
+  <givenName>Liz</givenName>
 </contributor>
 
 <titles><title>Data for: “Technology enabled Health” – Insights from Twitter Analytics with a Socio-Technical Perspective</title></titles>
