@@ -17,7 +17,7 @@ The current citation needs to stay the same, including the same DOI. I do recomm
 Kar, Arpan; grover, purva (2018): Data for: “technology enabled health” – insights from Twitter Analytics with a socio-technical perspective. Improvements to the Mirror of Mendeley Data. Dataset. https://doi.org/10.17632/rs3c243fnm.1 
 
 **Copyright/licensing statement**
-The data set has a Creative Commons Attribution 4.0 International (CC By 4.0) attached with it. 
+The data set has a Creative Commons Attribution 4.0 International (CC By 4.0) attached with it.
 
 **Human Subject Consideration**
 I have issues with how little care was taken into consideration when publishing the data set. The data set contains the Twitter users’ names that lead to profiles. I understand some of the profiles are made up, but most of them reveal people’s identity. I am not happy the date set provides information that can be used to track down individuals who use Twitter; it is dangerous. There are no steps taken to keep anyone’s identity anonymous or private. This is another major issue with the data set because of the lack of ethical concerns.
